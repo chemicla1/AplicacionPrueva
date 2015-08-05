@@ -7,6 +7,8 @@ import android.view.MenuItem;
 
 public class ActividadPrincipal extends AppCompatActivity {
 String chema="hola";
+    String jordi = "adios";
+    String otro ="otro";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
