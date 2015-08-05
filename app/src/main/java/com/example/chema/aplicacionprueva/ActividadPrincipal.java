@@ -9,6 +9,7 @@ public class ActividadPrincipal extends AppCompatActivity {
 String chema="hola";
     String jordi = "adios";
     String otro ="otro";
+    int x=1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
